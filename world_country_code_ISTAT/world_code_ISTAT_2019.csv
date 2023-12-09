@@ -1,0 +1,226 @@
+"","Country_IT","Country_EN","ISO.3166.alpha2","ISO.3166.alpha3","ISTAT_code","MIN_code","AT_code","UNSD_M49_code","Continente_IT","Continent_code","Region_IT","Region_code"
+"1","Italia","Italy","IT","ITA",100,"100","n.d.","380","Europa",1,"Unione europea",11
+"2","Albania","Albania","AL","ALB",201,"201","Z100","008","Europa",1,"Europa centro orientale",12
+"3","Andorra","Andorra","AD","AND",202,"202","Z101","020","Europa",1,"Altri paesi europei",13
+"4","Austria","Austria","AT","AUT",203,"203","Z102","040","Europa",1,"Unione europea",11
+"5","Belgio","Belgium","BE","BEL",206,"206","Z103","056","Europa",1,"Unione europea",11
+"6","Bulgaria","Bulgaria","BG","BGR",209,"209","Z104","100","Europa",1,"Unione europea",11
+"7","Danimarca","Denmark","DK","DNK",212,"212","Z107","208","Europa",1,"Unione europea",11
+"8","Finlandia","Finland","FI","FIN",214,"214","Z109","246","Europa",1,"Unione europea",11
+"9","Francia","France","FR","FRA",215,"215","Z110","250","Europa",1,"Unione europea",11
+"10","Germania","Germany","DE","DEU",216,"216","Z112","276","Europa",1,"Unione europea",11
+"11","Regno Unito","United Kingdom","UK","GBR",219,"219","Z114","826","Europa",1,"Unione europea",11
+"12","Grecia","Greece","GR","GRC",220,"220","Z115","300","Europa",1,"Unione europea",11
+"13","Irlanda","Ireland","IE","IRL",221,"221","Z116","372","Europa",1,"Unione europea",11
+"14","Islanda","Iceland","IS","ISL",223,"223","Z117","352","Europa",1,"Altri paesi europei",13
+"15","Liechtenstein","Liechtenstein","LI","LIE",225,"225","Z119","438","Europa",1,"Altri paesi europei",13
+"16","Lussemburgo","Luxembourg","LU","LUX",226,"226","Z120","442","Europa",1,"Unione europea",11
+"17","Malta","Malta","MT","MLT",227,"227","Z121","470","Europa",1,"Unione europea",11
+"18","Monaco","Monaco","MC","MCO",229,"229","Z123","492","Europa",1,"Altri paesi europei",13
+"19","Norvegia","Norway","NO","NOR",231,"231","Z125","578","Europa",1,"Altri paesi europei",13
+"20","Paesi Bassi","Netherlands","NL","NLD",232,"232","Z126","528","Europa",1,"Unione europea",11
+"21","Polonia","Poland","PL","POL",233,"233","Z127","616","Europa",1,"Unione europea",11
+"22","Portogallo","Portugal","PT","PRT",234,"234","Z128","620","Europa",1,"Unione europea",11
+"23","Romania","Romania","RO","ROU",235,"235","Z129","642","Europa",1,"Unione europea",11
+"24","San Marino","San Marino","SM","SMR",236,"236","Z130","674","Europa",1,"Altri paesi europei",13
+"25","Spagna","Spain","ES","ESP",239,"239","Z131","724","Europa",1,"Unione europea",11
+"26","Svezia","Sweden","SE","SWE",240,"240","Z132","752","Europa",1,"Unione europea",11
+"27","Svizzera","Switzerland","CH","CHE",241,"241","Z133","756","Europa",1,"Altri paesi europei",13
+"28","Ucraina","Ukraine","UA","UKR",243,"243","Z138","804","Europa",1,"Europa centro orientale",12
+"29","Ungheria","Hungary","HU","HUN",244,"244","Z134","348","Europa",1,"Unione europea",11
+"30","Federazione russa","Russian Federation","RU","RUS",245,"245","Z154","643","Europa",1,"Europa centro orientale",12
+"31","Stato della Città del Vaticano","Vatican City State","VA","VAT",246,"246","Z106","336","Europa",1,"Altri paesi europei",13
+"32","Estonia","Estonia","EE","EST",247,"247","Z144","233","Europa",1,"Unione europea",11
+"33","Lettonia","Latvia","LV","LVA",248,"248","Z145","428","Europa",1,"Unione europea",11
+"34","Lituania","Lithuania","LT","LTU",249,"249","Z146","440","Europa",1,"Unione europea",11
+"35","Croazia","Croatia","HR","HRV",250,"250","Z149","191","Europa",1,"Unione europea",11
+"36","Slovenia","Slovenia","SI","SVN",251,"251","Z150","705","Europa",1,"Unione europea",11
+"37","Bosnia-Erzegovina","Bosnia and Herzegovina","BA","BIH",252,"252","Z153","070","Europa",1,"Europa centro orientale",12
+"38","Macedonia del Nord","North Macedonia","MK","MKD",253,"253","Z148","807","Europa",1,"Europa centro orientale",12
+"39","Moldova","Moldova","MD","MDA",254,"254","Z140","498","Europa",1,"Europa centro orientale",12
+"40","Slovacchia","Slovakia","SK","SVK",255,"255","Z155","703","Europa",1,"Unione europea",11
+"41","Bielorussia","Belarus","BY","BLR",256,"256","Z139","112","Europa",1,"Europa centro orientale",12
+"42","Repubblica ceca","Czech Republic","CZ","CZE",257,"257","Z156","203","Europa",1,"Unione europea",11
+"43","Montenegro","Montenegro","ME","MNE",270,"270","Z159","499","Europa",1,"Europa centro orientale",12
+"44","Serbia","Serbia","RS","SRB",271,"271","Z158","688","Europa",1,"Europa centro orientale",12
+"45","Kosovo","Kosovo","n.d.","KOS",272,"272","Z160","n.d.","Europa",1,"Europa centro orientale",12
+"46","Afghanistan","Afghanistan","AF","AFG",301,"301","Z200","004","Asia",3,"Asia centro meridionale",32
+"47","Arabia Saudita","Saudi Arabia","SA","SAU",302,"302","Z203","682","Asia",3,"Asia occidentale",31
+"48","Bahrein","Bahrain","BH","BHR",304,"304","Z204","048","Asia",3,"Asia occidentale",31
+"49","Bangladesh","Bangladesh","BD","BGD",305,"305","Z249","050","Asia",3,"Asia centro meridionale",32
+"50","Bhutan","Bhutan","BT","BTN",306,"306","Z205","064","Asia",3,"Asia centro meridionale",32
+"51","Myanmar/Birmania","Myanmar/Burma","MM","MMR",307,"307","Z206","104","Asia",3,"Asia orientale",33
+"52","Brunei Darussalam","Brunei Darussalam","BN","BRN",309,"309","Z207","096","Asia",3,"Asia orientale",33
+"53","Cambogia","Cambodia","KH","KHM",310,"310","Z208","116","Asia",3,"Asia orientale",33
+"54","Sri Lanka","Sri Lanka","LK","LKA",311,"311","Z209","144","Asia",3,"Asia centro meridionale",32
+"55","Cina","China","CN","CHN",314,"314","Z210","156","Asia",3,"Asia orientale",33
+"56","Cipro","Cyprus","CY","CYP",315,"315","Z211","196","Europa",1,"Unione europea",11
+"57","Corea del Nord","North Korea","KP","PRK",319,"319","Z214","408","Asia",3,"Asia orientale",33
+"58","Corea del Sud","South Korea","KR","KOR",320,"320","Z213","410","Asia",3,"Asia orientale",33
+"59","Emirati Arabi Uniti","United Arab Emirates","AE","ARE",322,"322","Z215","784","Asia",3,"Asia occidentale",31
+"60","Filippine","Philippines","PH","PHL",323,"323","Z216","608","Asia",3,"Asia orientale",33
+"61","Palestina","Palestine","PS","PSE",324,"324","Z161","275","Asia",3,"Asia occidentale",31
+"62","Giappone","Japan","JP","JPN",326,"326","Z219","392","Asia",3,"Asia orientale",33
+"63","Giordania","Jordan","JO","JOR",327,"327","Z220","400","Asia",3,"Asia occidentale",31
+"64","India","India","IN","IND",330,"330","Z222","356","Asia",3,"Asia centro meridionale",32
+"65","Indonesia","Indonesia","ID","IDN",331,"331","Z223","360","Asia",3,"Asia orientale",33
+"66","Iran","Iran","IR","IRN",332,"332","Z224","364","Asia",3,"Asia occidentale",31
+"67","Iraq","Iraq","IQ","IRQ",333,"333","Z225","368","Asia",3,"Asia occidentale",31
+"68","Israele","Israel","IL","ISR",334,"334","Z226","376","Asia",3,"Asia occidentale",31
+"69","Kuwait","Kuwait","KW","KWT",335,"335","Z227","414","Asia",3,"Asia occidentale",31
+"70","Laos","Laos","LA","LAO",336,"336","Z228","418","Asia",3,"Asia orientale",33
+"71","Libano","Lebanon","LB","LBN",337,"337","Z229","422","Asia",3,"Asia occidentale",31
+"72","Timor Leste","Timor Leste","TL","TLS",338,"338","Z242","626","Asia",3,"Asia orientale",33
+"73","Maldive","Maldives","MV","MDV",339,"339","Z232","462","Asia",3,"Asia centro meridionale",32
+"74","Malaysia","Malaysia","MY","MYS",340,"340","Z247","458","Asia",3,"Asia orientale",33
+"75","Mongolia","Mongolia","MN","MNG",341,"341","Z233","496","Asia",3,"Asia orientale",33
+"76","Nepal","Nepal","NP","NPL",342,"342","Z234","524","Asia",3,"Asia centro meridionale",32
+"77","Oman","Oman","OM","OMN",343,"343","Z235","512","Asia",3,"Asia occidentale",31
+"78","Pakistan","Pakistan","PK","PAK",344,"344","Z236","586","Asia",3,"Asia centro meridionale",32
+"79","Qatar","Qatar","QA","QAT",345,"345","Z237","634","Asia",3,"Asia occidentale",31
+"80","Singapore","Singapore","SG","SGP",346,"346","Z248","702","Asia",3,"Asia orientale",33
+"81","Siria","Syria","SY","SYR",348,"348","Z240","760","Asia",3,"Asia occidentale",31
+"82","Thailandia","Thailand","TH","THA",349,"349","Z241","764","Asia",3,"Asia orientale",33
+"83","Turchia","Turkey","TR","TUR",351,"351","Z243","792","Europa",1,"Europa centro orientale",12
+"84","Vietnam","Vietnam","VN","VNM",353,"353","Z251","704","Asia",3,"Asia orientale",33
+"85","Yemen","Yemen","YE","YEM",354,"354","Z246","887","Asia",3,"Asia occidentale",31
+"86","Kazakhstan","Kazakhstan","KZ","KAZ",356,"356","Z255","398","Asia",3,"Asia centro meridionale",32
+"87","Uzbekistan","Uzbekistan","UZ","UZB",357,"357","Z259","860","Asia",3,"Asia centro meridionale",32
+"88","Armenia","Armenia","AM","ARM",358,"358","Z252","051","Asia",3,"Asia occidentale",31
+"89","Azerbaigian","Azerbaijan","AZ","AZE",359,"359","Z253","031","Asia",3,"Asia occidentale",31
+"90","Georgia","Georgia","GE","GEO",360,"360","Z254","268","Asia",3,"Asia occidentale",31
+"91","Kirghizistan","Kyrgyzstan","KG","KGZ",361,"361","Z256","417","Asia",3,"Asia centro meridionale",32
+"92","Tagikistan","Tajikistan","TJ","TJK",362,"362","Z257","762","Asia",3,"Asia centro meridionale",32
+"93","Taiwan","Taiwan","TW","TWN",363,"363","Z217","n.d.","Asia",3,"Asia orientale",33
+"94","Turkmenistan","Turkmenistan","TM","TKM",364,"364","Z258","795","Asia",3,"Asia centro meridionale",32
+"95","Algeria","Algeria","DZ","DZA",401,"401","Z301","012","Africa",2,"Africa settentrionale",21
+"96","Angola","Angola","AO","AGO",402,"402","Z302","024","Africa",2,"Africa centro meridionale",24
+"97","Costa d'Avorio","Côte d'Ivoire","CI","CIV",404,"404","Z313","384","Africa",2,"Africa occidentale",22
+"98","Benin","Benin","BJ","BEN",406,"406","Z314","204","Africa",2,"Africa occidentale",22
+"99","Botswana","Botswana","BW","BWA",408,"408","Z358","072","Africa",2,"Africa centro meridionale",24
+"100","Burkina Faso","Burkina Faso","BF","BFA",409,"409","Z354","854","Africa",2,"Africa occidentale",22
+"101","Burundi","Burundi","BI","BDI",410,"410","Z305","108","Africa",2,"Africa orientale",23
+"102","Camerun","Cameroon","CM","CMR",411,"411","Z306","120","Africa",2,"Africa centro meridionale",24
+"103","Capo Verde","Cape Verde","CV","CPV",413,"413","Z307","132","Africa",2,"Africa occidentale",22
+"104","Repubblica Centrafricana","Central African Republic","CF","CAF",414,"414","Z308","140","Africa",2,"Africa centro meridionale",24
+"105","Ciad","Chad","TD","TCD",415,"415","Z309","148","Africa",2,"Africa centro meridionale",24
+"106","Comore","Comoros","KM","COM",417,"417","Z310","174","Africa",2,"Africa orientale",23
+"107","Congo","Congo","CG","COG",418,"418","Z311","178","Africa",2,"Africa centro meridionale",24
+"108","Egitto","Egypt","EG","EGY",419,"419","Z336","818","Africa",2,"Africa settentrionale",21
+"109","Etiopia","Ethiopia","ET","ETH",420,"420","Z315","231","Africa",2,"Africa orientale",23
+"110","Gabon","Gabon","GA","GAB",421,"421","Z316","266","Africa",2,"Africa centro meridionale",24
+"111","Gambia","Gambia","GM","GMB",422,"422","Z317","270","Africa",2,"Africa occidentale",22
+"112","Ghana","Ghana","GH","GHA",423,"423","Z318","288","Africa",2,"Africa occidentale",22
+"113","Gibuti","Djibouti","DJ","DJI",424,"424","Z361","262","Africa",2,"Africa orientale",23
+"114","Guinea","Guinea","GN","GIN",425,"425","Z319","324","Africa",2,"Africa occidentale",22
+"115","Guinea-Bissau","Guinea-Bissau","GW","GNB",426,"426","Z320","624","Africa",2,"Africa occidentale",22
+"116","Guinea equatoriale","Equatorial Guinea","GQ","GNQ",427,"427","Z321","226","Africa",2,"Africa centro meridionale",24
+"117","Kenya","Kenya","KE","KEN",428,"428","Z322","404","Africa",2,"Africa orientale",23
+"118","Lesotho","Lesotho","LS","LSO",429,"429","Z359","426","Africa",2,"Africa centro meridionale",24
+"119","Liberia","Liberia","LR","LBR",430,"430","Z325","430","Africa",2,"Africa occidentale",22
+"120","Libia","Libya","LY","LBY",431,"431","Z326","434","Africa",2,"Africa settentrionale",21
+"121","Madagascar","Madagascar","MG","MDG",432,"432","Z327","450","Africa",2,"Africa orientale",23
+"122","Malawi","Malawi","MW","MWI",434,"434","Z328","454","Africa",2,"Africa orientale",23
+"123","Mali","Mali","ML","MLI",435,"435","Z329","466","Africa",2,"Africa occidentale",22
+"124","Marocco","Morocco","MA","MAR",436,"436","Z330","504","Africa",2,"Africa settentrionale",21
+"125","Mauritania","Mauritania","MR","MRT",437,"437","Z331","478","Africa",2,"Africa occidentale",22
+"126","Maurizio","Mauritius","MU","MUS",438,"438","Z332","480","Africa",2,"Africa orientale",23
+"127","Mozambico","Mozambique","MZ","MOZ",440,"440","Z333","508","Africa",2,"Africa orientale",23
+"128","Namibia","Namibia","NA","NAM",441,"441","Z300","516","Africa",2,"Africa centro meridionale",24
+"129","Niger","Niger","NE","NER",442,"442","Z334","562","Africa",2,"Africa occidentale",22
+"130","Nigeria","Nigeria","NG","NGA",443,"443","Z335","566","Africa",2,"Africa occidentale",22
+"131","Ruanda","Rwanda","RW","RWA",446,"446","Z338","646","Africa",2,"Africa orientale",23
+"132","Sao Tomé e Principe","Sao Tome and Principe","ST","STP",448,"448","Z341","678","Africa",2,"Africa centro meridionale",24
+"133","Seychelles","Seychelles","SC","SYC",449,"449","Z342","690","Africa",2,"Africa orientale",23
+"134","Senegal","Senegal","SN","SEN",450,"450","Z343","686","Africa",2,"Africa occidentale",22
+"135","Sierra Leone","Sierra Leone","SL","SLE",451,"451","Z344","694","Africa",2,"Africa occidentale",22
+"136","Somalia","Somalia","SO","SOM",453,"453","Z345","706","Africa",2,"Africa orientale",23
+"137","Sudafrica","South Africa","ZA","ZAF",454,"454","Z347","710","Africa",2,"Africa centro meridionale",24
+"138","Sudan","Sudan","SD","SDN",455,"455","Z348","729","Africa",2,"Africa settentrionale",21
+"139","Eswatini","Eswatini","SZ","SWZ",456,"456","Z349","748","Africa",2,"Africa centro meridionale",24
+"140","Tanzania","Tanzania","TZ","TZA",457,"457","Z357","834","Africa",2,"Africa orientale",23
+"141","Togo","Togo","TG","TGO",458,"458","Z351","768","Africa",2,"Africa occidentale",22
+"142","Tunisia","Tunisia","TN","TUN",460,"460","Z352","788","Africa",2,"Africa settentrionale",21
+"143","Uganda","Uganda","UG","UGA",461,"461","Z353","800","Africa",2,"Africa orientale",23
+"144","Repubblica Democratica del Congo","Democratic Republic of the Congo","CD","COD",463,"463","Z312","180","Africa",2,"Africa centro meridionale",24
+"145","Zambia","Zambia","ZM","ZMB",464,"464","Z355","894","Africa",2,"Africa orientale",23
+"146","Zimbabwe","Zimbabwe","ZW","ZWE",465,"465","Z337","716","Africa",2,"Africa orientale",23
+"147","Eritrea","Eritrea","ER","ERI",466,"466","Z368","232","Africa",2,"Africa orientale",23
+"148","Sud Sudan","South Sudan","SS","SSD",467,"467","Z907","728","Africa",2,"Africa settentrionale",21
+"149","Antigua e Barbuda","Antigua and Barbuda","AG","ATG",503,"503","Z532","028","America",4,"America centro meridionale",42
+"150","Bahamas","Bahamas","BS","BHS",505,"505","Z502","044","America",4,"America centro meridionale",42
+"151","Barbados","Barbados","BB","BRB",506,"506","Z522","052","America",4,"America centro meridionale",42
+"152","Belize","Belize","BZ","BLZ",507,"507","Z512","084","America",4,"America centro meridionale",42
+"153","Canada","Canada","CA","CAN",509,"509","Z401","124","America",4,"America settentrionale",41
+"154","Costa Rica","Costa Rica","CR","CRI",513,"513","Z503","188","America",4,"America centro meridionale",42
+"155","Cuba","Cuba","CU","CUB",514,"514","Z504","192","America",4,"America centro meridionale",42
+"156","Dominica","Dominica","DM","DMA",515,"515","Z526","212","America",4,"America centro meridionale",42
+"157","Repubblica Dominicana","Dominican Republic","DO","DOM",516,"516","Z505","214","America",4,"America centro meridionale",42
+"158","El Salvador","El Salvador","SV","SLV",517,"517","Z506","222","America",4,"America centro meridionale",42
+"159","Giamaica","Jamaica","JM","JAM",518,"518","Z507","388","America",4,"America centro meridionale",42
+"160","Grenada","Grenada","GD","GRD",519,"519","Z524","308","America",4,"America centro meridionale",42
+"161","Guatemala","Guatemala","GT","GTM",523,"523","Z509","320","America",4,"America centro meridionale",42
+"162","Haiti","Haiti","HT","HTI",524,"524","Z510","332","America",4,"America centro meridionale",42
+"163","Honduras","Honduras","HN","HND",525,"525","Z511","340","America",4,"America centro meridionale",42
+"164","Messico","Mexico","MX","MEX",527,"527","Z514","484","America",4,"America centro meridionale",42
+"165","Nicaragua","Nicaragua","NI","NIC",529,"529","Z515","558","America",4,"America centro meridionale",42
+"166","Panama","Panama","PA","PAN",530,"530","Z516","591","America",4,"America centro meridionale",42
+"167","Santa Lucia","Saint Lucia","LC","LCA",532,"532","Z527","662","America",4,"America centro meridionale",42
+"168","Saint Vincent e Grenadine","Saint Vincent and the Grenadines","VC","VCT",533,"533","Z528","670","America",4,"America centro meridionale",42
+"169","Saint Kitts e Nevis","Saint Kitts and Nevis","KN","KNA",534,"534","Z533","659","America",4,"America centro meridionale",42
+"170","Stati Uniti d'America","United States of America","US","USA",536,"536","Z404","840","America",4,"America settentrionale",41
+"171","Argentina","Argentina","AR","ARG",602,"602","Z600","032","America",4,"America centro meridionale",42
+"172","Bolivia","Bolivia","BO","BOL",604,"604","Z601","068","America",4,"America centro meridionale",42
+"173","Brasile","Brazil","BR","BRA",605,"605","Z602","076","America",4,"America centro meridionale",42
+"174","Cile","Chile","CL","CHL",606,"606","Z603","152","America",4,"America centro meridionale",42
+"175","Colombia","Colombia","CO","COL",608,"608","Z604","170","America",4,"America centro meridionale",42
+"176","Ecuador","Ecuador","EC","ECU",609,"609","Z605","218","America",4,"America centro meridionale",42
+"177","Guyana","Guyana","GY","GUY",612,"612","Z606","328","America",4,"America centro meridionale",42
+"178","Paraguay","Paraguay","PY","PRY",614,"614","Z610","600","America",4,"America centro meridionale",42
+"179","Perù","Peru","PE","PER",615,"615","Z611","604","America",4,"America centro meridionale",42
+"180","Suriname","Suriname","SR","SUR",616,"616","Z608","740","America",4,"America centro meridionale",42
+"181","Trinidad e Tobago","Trinidad and Tobago","TT","TTO",617,"617","Z612","780","America",4,"America centro meridionale",42
+"182","Uruguay","Uruguay","UY","URY",618,"618","Z613","858","America",4,"America centro meridionale",42
+"183","Venezuela","Venezuela","VE","VEN",619,"619","Z614","862","America",4,"America centro meridionale",42
+"184","Australia","Australia","AU","AUS",701,"701","Z700","036","Oceania",5,"Oceania",50
+"185","Figi","Fiji","FJ","FJI",703,"703","Z704","242","Oceania",5,"Oceania",50
+"186","Kiribati","Kiribati","KI","KIR",708,"708","Z731","296","Oceania",5,"Oceania",50
+"187","Isole Marshall","Marshall Islands","MH","MHL",712,"712","Z711","584","Oceania",5,"Oceania",50
+"188","Stati Federati di Micronesia","Federated States of Micronesia","FM","FSM",713,"713","Z735","583","Oceania",5,"Oceania",50
+"189","Nauru","Nauru","NR","NRU",715,"715","Z713","520","Oceania",5,"Oceania",50
+"190","Nuova Zelanda","New Zealand","NZ","NZL",719,"719","Z719","554","Oceania",5,"Oceania",50
+"191","Palau","Palau","PW","PLW",720,"720","Z734","585","Oceania",5,"Oceania",50
+"192","Papua Nuova Guinea","Papua New Guinea","PG","PNG",721,"721","Z730","598","Oceania",5,"Oceania",50
+"193","Isole Salomone","Solomon Islands","SB","SLB",725,"725","Z724","090","Oceania",5,"Oceania",50
+"194","Samoa","Samoa","WS","WSM",727,"727","Z726","882","Oceania",5,"Oceania",50
+"195","Tonga","Tonga","TO","TON",730,"730","Z728","776","Oceania",5,"Oceania",50
+"196","Tuvalu","Tuvalu","TV","TUV",731,"731","Z732","798","Oceania",5,"Oceania",50
+"197","Vanuatu","Vanuatu","VU","VUT",732,"732","Z733","548","Oceania",5,"Oceania",50
+"198","Nuova Caledonia","New Caledonia","NC","NCL",902,"718","Z716","n.d.","Oceania",5,"Oceania",50
+"199","Saint-Martin (FR)","Saint Martin (FR)","MF","MAF",904,"542","n.d.","n.d.","America",4,"America centro meridionale",42
+"200","Sahara occidentale","Western Sahara","EH","ESH",905,"n.d.","Z339","n.d.","Africa",2,"Africa settentrionale",21
+"201","Saint-Barthélemy","Saint Barthelemy","BL","BLM",906,"541","n.d.","n.d.","America",4,"America centro meridionale",42
+"202","Bermuda","Bermuda","BM","BMU",908,"508","Z400","n.d.","America",4,"America settentrionale",41
+"203","Isole Cook (NZ)","Cook Islands (NZ)","CK","COK",909,"702","Z703","n.d.","Oceania",5,"Oceania",50
+"204","Gibilterra","Gibraltar","GI","GIB",910,"218","Z113","n.d.","Europa",1,"Altri Paesi europei",13
+"205","Isole Cayman","Cayman Islands","KY","CYM",911,"511","Z530","n.d.","America",4,"America centro meridionale",42
+"206","Anguilla","Anguilla","AI","AIA",917,"502","Z529","n.d.","America",4,"America centro meridionale",42
+"207","Polinesia francese","French Polynesia","PF","PYF",920,"724","Z723","n.d.","Oceania",5,"Oceania",50
+"208","Isole Fær Øer","Faroe Islands","FO","FRO",924,"213","Z108","n.d.","Europa",1,"Altri Paesi europei",13
+"209","Jersey","Jersey","JE","JEY",925,"273","n.d.","n.d.","Europa",1,"Altri Paesi europei",13
+"210","Aruba","Aruba","AW","ABW",926,"603","Z501","n.d.","America",4,"America centro meridionale",42
+"211","Sint Maarten (NL)","St Maarten (NL)","SX","SXM",928,"621","n.d.","n.d.","America",4,"America centro meridionale",42
+"212","Groenlandia","Greenland","GL","GRL",934,"520","Z402","n.d.","America",4,"America settentrionale",41
+"213","Sark","Sark","n.d.","n.d.",939,"n.d.","n.d.","n.d.","Europa",1,"Altri Paesi europei",13
+"214","Guernsey","Guernsey","GG","GGY",940,"274","n.d.","n.d.","Europa",1,"Altri Paesi europei",13
+"215","Isole Falkland (Malvine)","Falkland Islands (Malvinas)","FK","FLK",958,"610","Z609","n.d.","America",4,"America centro meridionale",42
+"216","Isola di Man","Isle of Man","IM","IMN",959,"228","Z122","n.d.","Europa",1,"Altri Paesi europei",13
+"217","Montserrat","Montserrat","MS","MSR",964,"528","Z531","n.d.","America",4,"America centro meridionale",42
+"218","Curaçao","Curaçao","CW","CUW",966,"620","n.d.","n.d.","America",4,"America centro meridionale",42
+"219","Isole Pitcairn","Pitcairn","PN","PCN",972,"723","Z722","n.d.","Oceania",5,"Oceania",50
+"220","Saint Pierre e Miquelon","Saint Pierre and Miquelon","PM","SPM",980,"535","Z403","n.d.","America",4,"America settentrionale",41
+"221","Sant'Elena","Saint Helena","SH","SHN",983,"447","Z340","n.d.","Africa",2,"Africa centro meridionale",24
+"222","Terre australi e antartiche francesi","French Southern Territories","TF","ATF",988,"806","n.d.","n.d.","Oceania",5,"Oceania",50
+"223","Isole Turks e Caicos","Turks and Caicos Islands","TC","TCA",992,"537","Z519","n.d.","America",4,"America centro meridionale",42
+"224","Isole Vergini britanniche","British Virgin Islands","VG","VGB",994,"539","Z525","n.d.","America",4,"America centro meridionale",42
+"225","Wallis e Futuna","Wallis and Futuna Islands","WF","WLF",997,"734","Z729","n.d.","Oceania",5,"Oceania",50
