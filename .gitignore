@@ -3,3 +3,13 @@
 .RData
 .Ruserdata
 /develop/
+*.R
+*.xls
+*xlsx
+*/shape_files/
+*/code/
+*.DS_Store
+*/.DS_Store
+**/.DS_Store
+.DS_Store
+\.DS_Store

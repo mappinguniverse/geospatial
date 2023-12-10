@@ -1,0 +1,252 @@
+country;name_formal;name_wb;iso2;iso3;iso3_eh;iso3_numeric;iso3_un;iso2_wb;iso3_wb;continent;region;subregion;region_wb;type;type_economy;type_income;type_economy_id;type_income_id
+Indonesia;Republic of Indonesia;Indonesia;ID;IDN;IDN;360;360;ID;IDN;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Emerging region: MI;Lower middle income;4;4
+Malaysia;Malaysia;Malaysia;MY;MYS;MYS;458;458;MY;MYS;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Developing region;Upper middle income;6;3
+Chile;Republic of Chile;Chile;CL;CHL;CHL;152;152;CL;CHL;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Emerging region: G2;Upper middle income;5;3
+Bolivia;Plurinational State of Bolivia;Bolivia;BO;BOL;BOL;68;68;BO;BOL;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Emerging region: G2;Lower middle income;5;4
+Peru;Republic of Peru;Peru;PE;PER;PER;604;604;PE;PER;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Emerging region: G2;Upper middle income;5;3
+Argentina;Argentine Republic;Argentina;AR;ARG;ARG;32;32;AR;ARG;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Emerging region: G2;Upper middle income;5;3
+Cyprus;Republic of Cyprus;Cyprus;CY;CYP;CYP;196;196;CY;CYP;Asia;Asia;Western Asia;Europe & Central Asia;Sovereign country;Developing region;High income: nonOECD;6;2
+India;Republic of India;India;IN;IND;IND;356;356;IN;IND;Asia;Asia;Southern Asia;South Asia;Sovereign country;Emerging region: BR;Lower middle income;3;4
+People's Republic of China;People's Republic of China;China;CN;CHN;CHN;156;156;CN;CHN;Asia;Asia;Eastern Asia;East Asia & Pacific;Country;Emerging region: BR;Upper middle income;3;3
+Israel;State of Israel;Israel;IL;ISR;ISR;376;376;IL;ISR;Asia;Asia;Western Asia;Middle East & North Africa;Country;Developed region:;High income: OECD;2;1
+Palestine;West Bank and Gaza;West Bank and Gaza;PS;PSE;PSE;275;275;GZ;PSE;Asia;Asia;Western Asia;Middle East & North Africa;Disputed;Developing region;Lower middle income;6;4
+Lebanon;Lebanese Republic;Lebanon;LB;LBN;LBN;422;422;LB;LBN;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Developing region;Upper middle income;6;3
+Ethiopia;Federal Democratic Republic of Ethiopia;Ethiopia;ET;ETH;ETH;231;231;ET;ETH;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+South Sudan;Republic of South Sudan;South Sudan;SS;SSD;SSD;728;728;SS;SSD;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Somalia;Federal Republic of Somalia;Somalia;SO;SOM;SOM;706;706;SO;SOM;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Kenya;Republic of Kenya;Kenya;KE;KEN;KEN;404;404;KE;KEN;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Emerging r;Low income;5;5
+Pakistan;Islamic Republic of Pakistan;Pakistan;PK;PAK;PAK;586;586;PK;PAK;Asia;Asia;Southern Asia;South Asia;Sovereign country;Emerging region: G2;Lower middle income;5;4
+Malawi;Republic of Malawi;Malawi;MW;MWI;MWI;454;454;MW;MWI;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Tanzania;United Republic of Tanzania;Tanzania;TZ;TZA;TZA;834;834;TZ;TZA;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Syria;Syrian Arab Republic;Syrian Arab Republic;SY;SYR;SYR;760;760;SY;SYR;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Developing region;Lower middle income;6;4
+France;French Republic;France;NA;NA;FRA;250;250;FR;FRA;Europe;Europe;Western Europe;Europe & Central Asia;Country;Developed region:;High income: OECD;1;1
+Suriname;Republic of Suriname;Suriname;SR;SUR;SUR;740;740;SR;SUR;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Guyana;Co-operative Republic of Guyana;Guyana;GY;GUY;GUY;328;328;GY;GUY;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Developing region;Lower middle income;6;4
+South Korea;Republic of Korea;Korea, Republic of;KR;KOR;KOR;410;410;KR;KOR;Asia;Asia;Eastern Asia;East Asia & Pacific;Sovereign country;Emerging region: ;High income: OECD;4;1
+North Korea;Democratic People's Republic of Korea;Korea, Democratic People's Republic of;KP;PRK;PRK;408;408;KP;PRK;Asia;Asia;Eastern Asia;East Asia & Pacific;Sovereign country;Least deve;Low income;7;5
+Morocco;Kingdom of Morocco;Morocco;MA;MAR;MAR;504;504;MA;MAR;Africa;Africa;Northern Africa;Middle East & North Africa;Sovereign country;Developing region;Lower middle income;6;4
+Costa Rica;Republic of Costa Rica;Costa Rica;CR;CRI;CRI;188;188;CR;CRI;North America;Americas;Central America;Latin America & Caribbean;Sovereign country;Emerging region: G2;Upper middle income;5;3
+Nicaragua;Republic of Nicaragua;Nicaragua;NI;NIC;NIC;558;558;NI;NIC;North America;Americas;Central America;Latin America & Caribbean;Sovereign country;Developing region;Lower middle income;6;4
+Republic of the Congo;Republic of the Congo;Congo, Rep. of;CG;COG;COG;178;178;CG;COG;Africa;Africa;Middle Africa;Sub-Saharan Africa;Sovereign country;Developing region;Lower middle income;6;4
+Democratic Republic of the Congo;Democratic Republic of the Congo;Congo, Democratic Republic of;CD;COD;COD;180;180;ZR;ZAR;Africa;Africa;Middle Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Bhutan;Kingdom of Bhutan;Bhutan;BT;BTN;BTN;64;64;BT;BTN;Asia;Asia;Southern Asia;South Asia;Sovereign country;Least developed reg;Lower middle income;7;4
+Ukraine;Ukraine;Ukraine;UA;UKR;UKR;804;804;UA;UKR;Europe;Europe;Eastern Europe;Europe & Central Asia;Sovereign country;Developing region;Lower middle income;6;4
+Belarus;Republic of Belarus;Belarus;BY;BLR;BLR;112;112;BY;BLR;Europe;Europe;Eastern Europe;Europe & Central Asia;Sovereign country;Developing region;Upper middle income;6;3
+Namibia;Republic of Namibia;Namibia;NA;NAM;NAM;516;516;NA;NAM;Africa;Africa;Southern Africa;Sub-Saharan Africa;Sovereign country;Developing region;Upper middle income;6;3
+South Africa;Republic of South Africa;South Africa;ZA;ZAF;ZAF;710;710;ZA;ZAF;Africa;Africa;Southern Africa;Sub-Saharan Africa;Sovereign country;Emerging region: G2;Upper middle income;5;3
+Saint Martin;Saint-Martin (French part);Saint-Martin (Fr.);MF;MAF;MAF;663;663;MF;MAF;North America;Americas;Caribbean;Latin America & Caribbean;Dependency;Developing region;High income: nonOECD;6;2
+Sint Maarten;Sint Maarten (Dutch part);Sint Maarten (Neth.);SX;SXM;SXM;534;534;SX;SXM;North America;Americas;Caribbean;Latin America & Caribbean;Country;Developing region;High income: nonOECD;6;2
+Oman;Sultanate of Oman;Oman;OM;OMN;OMN;512;512;OM;OMN;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Developing region;High income: nonOECD;6;2
+Uzbekistan;Republic of Uzbekistan;Uzbekistan;UZ;UZB;UZB;860;860;UZ;UZB;Asia;Asia;Central Asia;Europe & Central Asia;Sovereign country;Developing region;Lower middle income;6;4
+Kazakhstan;Republic of Kazakhstan;Kazakhstan;KZ;KAZ;KAZ;398;398;KZ;KAZ;Asia;Asia;Central Asia;Europe & Central Asia;Sovereign country;Developing region;Upper middle income;6;3
+Tajikistan;Republic of Tajikistan;Tajikistan;TJ;TJK;TJK;762;762;TJ;TJK;Asia;Asia;Central Asia;Europe & Central Asia;Sovereign country;Developing;Low income;6;5
+Lithuania;Republic of Lithuania;Lithuania;LT;LTU;LTU;440;440;LT;LTU;Europe;Europe;Northern Europe;Europe & Central Asia;Sovereign country;Developed region: n;Upper middle income;2;3
+Brazil;Federative Republic of Brazil;Brazil;BR;BRA;BRA;76;76;BR;BRA;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Emerging region: BR;Upper middle income;3;3
+Uruguay;Oriental Republic of Uruguay;Uruguay;UY;URY;URY;858;858;UY;URY;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Emerging region: G2;Upper middle income;5;3
+Mongolia;Mongolia;Mongolia;MN;MNG;MNG;496;496;MN;MNG;Asia;Asia;Eastern Asia;East Asia & Pacific;Sovereign country;Developing region;Lower middle income;6;4
+Russia;Russian Federation;Russian Federation;RU;RUS;RUS;643;643;RU;RUS;Europe;Europe;Eastern Europe;Europe & Central Asia;Sovereign country;Emerging region: BR;Upper middle income;3;3
+Czech Republic;Czech Republic;Czech Republic;CZ;CZE;CZE;203;203;CZ;CZE;Europe;Europe;Eastern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Germany;Federal Republic of Germany;Germany;DE;DEU;DEU;276;276;DE;DEU;Europe;Europe;Western Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;1;1
+Estonia;Republic of Estonia;Estonia;EE;EST;EST;233;233;EE;EST;Europe;Europe;Northern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Latvia;Republic of Latvia;Latvia;LV;LVA;LVA;428;428;LV;LVA;Europe;Europe;Northern Europe;Europe & Central Asia;Sovereign country;Developed region: n;Upper middle income;2;3
+Norway;Kingdom of Norway;Norway;NA;NA;NA;NA;NA;NA;NOR;Europe;Europe;Northern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Sweden;Kingdom of Sweden;Sweden;SE;SWE;SWE;752;752;SE;SWE;Europe;Europe;Northern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Finland;Republic of Finland;Finland;FI;FIN;FIN;246;246;FI;FIN;Europe;Europe;Northern Europe;Europe & Central Asia;Country;Developed region:;High income: OECD;2;1
+Vietnam;Socialist Republic of Vietnam;Vietnam;VN;VNM;VNM;704;704;VN;VNM;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Emerging region: G2;Lower middle income;5;4
+Cambodia;Kingdom of Cambodia;Cambodia;KH;KHM;KHM;116;116;KH;KHM;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Least deve;Low income;7;5
+Luxembourg;Grand Duchy of Luxembourg;Luxembourg;LU;LUX;LUX;442;442;LU;LUX;Europe;Europe;Western Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+United Arab Emirates;United Arab Emirates;United Arab Emirates;AE;ARE;ARE;784;784;AE;ARE;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Developing region;High income: nonOECD;6;2
+Belgium;Kingdom of Belgium;Belgium;BE;BEL;BEL;56;56;BE;BEL;Europe;Europe;Western Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Georgia;Georgia;Georgia;GE;GEO;GEO;268;268;GE;GEO;Asia;Asia;Western Asia;Europe & Central Asia;Sovereign country;Developing region;Lower middle income;6;4
+Republic of Macedonia;Former Yugoslav Republic of Macedonia;North Macedonia;MK;MKD;MKD;807;807;MK;MKD;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developing region;Upper middle income;6;3
+Albania;Republic of Albania;Albania;AL;ALB;ALB;8;8;AL;ALB;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developing region;Lower middle income;6;4
+Azerbaijan;Republic of Azerbaijan;Azerbaijan;AZ;AZE;AZE;31;31;AZ;AZE;Asia;Asia;Western Asia;Europe & Central Asia;Sovereign country;Developing region;Upper middle income;6;3
+Kosovo;Republic of Kosovo;Kosovo;XK;NA;NA;NA;-99;KV;KSV;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developing region;Lower middle income;6;4
+Turkey;Republic of Turkey;Turkey;TR;TUR;TUR;792;792;TR;TUR;Asia;Asia;Western Asia;Europe & Central Asia;Sovereign country;Emerging region: MI;Upper middle income;4;3
+Spain;Kingdom of Spain;Spain;ES;ESP;ESP;724;724;ES;ESP;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Laos;Lao People's Democratic Republic;Lao People's Democratic Republic;LA;LAO;LAO;418;418;LA;LAO;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Least developed reg;Lower middle income;7;4
+Kyrgyzstan;Kyrgyz Republic;Kyrgyz Republic;KG;KGZ;KGZ;417;417;KG;KGZ;Asia;Asia;Central Asia;Europe & Central Asia;Sovereign country;Developing;Low income;6;5
+Armenia;Republic of Armenia;Armenia;AM;ARM;ARM;51;51;AM;ARM;Asia;Asia;Western Asia;Europe & Central Asia;Sovereign country;Developing region;Lower middle income;6;4
+Denmark;Kingdom of Denmark;Denmark;DK;DNK;DNK;208;208;DK;DNK;Europe;Europe;Northern Europe;Europe & Central Asia;Country;Developed region:;High income: OECD;2;1
+Libya;Libya;Libya;LY;LBY;LBY;434;434;LY;LBY;Africa;Africa;Northern Africa;Middle East & North Africa;Sovereign country;Developing region;Upper middle income;6;3
+Tunisia;Republic of Tunisia;Tunisia;TN;TUN;TUN;788;788;TN;TUN;Africa;Africa;Northern Africa;Middle East & North Africa;Sovereign country;Developing region;Upper middle income;6;3
+Romania;Romania;Romania;RO;ROU;ROU;642;642;RO;ROM;Europe;Europe;Eastern Europe;Europe & Central Asia;Sovereign country;Developed region: n;Upper middle income;2;3
+Hungary;Republic of Hungary;Hungary;HU;HUN;HUN;348;348;HU;HUN;Europe;Europe;Eastern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Slovakia;Slovak Republic;Slovak Republic;SK;SVK;SVK;703;703;SK;SVK;Europe;Europe;Eastern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Poland;Republic of Poland;Poland;PL;POL;POL;616;616;PL;POL;Europe;Europe;Eastern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Ireland;Ireland;Ireland;IE;IRL;IRL;372;372;IE;IRL;Europe;Europe;Northern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+United Kingdom;United Kingdom of Great Britain and Northern Ireland;United Kingdom;GB;GBR;GBR;826;826;GB;GBR;Europe;Europe;Northern Europe;Europe & Central Asia;Country;Developed region:;High income: OECD;1;1
+Greece;Hellenic Republic;Greece;GR;GRC;GRC;300;300;GR;GRC;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Zambia;Republic of Zambia;Zambia;ZM;ZMB;ZMB;894;894;ZM;ZMB;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least developed reg;Lower middle income;7;4
+Sierra Leone;Republic of Sierra Leone;Sierra Leone;SL;SLE;SLE;694;694;SL;SLE;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Guinea;Republic of Guinea;Guinea;GN;GIN;GIN;324;324;GN;GIN;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Liberia;Republic of Liberia;Liberia;LR;LBR;LBR;430;430;LR;LBR;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Central African Republic;Central African Republic;Central African Republic;CF;CAF;CAF;140;140;CF;CAF;Africa;Africa;Middle Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Sudan;Republic of the Sudan;Sudan;SD;SDN;SDN;729;729;SD;SDN;Africa;Africa;Northern Africa;Sub-Saharan Africa;Sovereign country;Developing region;Lower middle income;6;4
+Djibouti;Republic of Djibouti;Djibouti;DJ;DJI;DJI;262;262;DJ;DJI;Africa;Africa;Eastern Africa;Middle East & North Africa;Sovereign country;Least developed reg;Lower middle income;7;4
+Eritrea;State of Eritrea;Eritrea;ER;ERI;ERI;232;232;ER;ERI;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Austria;Republic of Austria;Austria;AT;AUT;AUT;40;40;AT;AUT;Europe;Europe;Western Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Iraq;Republic of Iraq;Iraq;IQ;IRQ;IRQ;368;368;IQ;IRQ;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Developing region;Lower middle income;6;4
+Italy;Italian Republic;Italy;IT;ITA;ITA;380;380;IT;ITA;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;1;1
+Switzerland;Swiss Confederation;Switzerland;CH;CHE;CHE;756;756;CH;CHE;Europe;Europe;Western Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Iran;Islamic Republic of Iran;Iran, Islamic Republic of;IR;IRN;IRN;364;364;IR;IRN;Asia;Asia;Southern Asia;Middle East & North Africa;Sovereign country;Emerging region: G2;Upper middle income;5;3
+Liechtenstein;Principality of Liechtenstein;Liechtenstein;LI;LIE;LIE;438;438;LI;LIE;Europe;Europe;Western Europe;Europe & Central Asia;Sovereign country;Developed region: no;High income: nonOECD;2;2
+Ivory Coast;Republic of Ivory Coast;Côte d'Ivoire;CI;CIV;CIV;384;384;CI;CIV;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Developing region;Lower middle income;6;4
+Serbia;Republic of Serbia;Serbia;RS;SRB;SRB;688;688;YF;SRB;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developing region;Upper middle income;6;3
+Mali;Republic of Mali;Mali;ML;MLI;MLI;466;466;ML;MLI;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Senegal;Republic of Senegal;Senegal;SN;SEN;SEN;686;686;SN;SEN;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least developed reg;Lower middle income;7;4
+Nigeria;Federal Republic of Nigeria;Nigeria;NG;NGA;NGA;566;566;NG;NGA;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Emerging region: G2;Lower middle income;5;4
+Benin;Republic of Benin;Benin;BJ;BEN;BEN;204;204;BJ;BEN;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Angola;People's Republic of Angola;Angola;AO;AGO;AGO;24;24;AO;AGO;Africa;Africa;Middle Africa;Sub-Saharan Africa;Sovereign country;Least developed reg;Upper middle income;7;3
+Croatia;Republic of Croatia;Croatia;HR;HRV;HRV;191;191;HR;HRV;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developed region: no;High income: nonOECD;2;2
+Slovenia;Republic of Slovenia;Slovenia;SI;SVN;SVN;705;705;SI;SVN;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Qatar;State of Qatar;Qatar;QA;QAT;QAT;634;634;QA;QAT;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Developing region;High income: nonOECD;6;2
+Saudi Arabia;Kingdom of Saudi Arabia;Saudi Arabia;SA;SAU;SAU;682;682;SA;SAU;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Developed region: no;High income: nonOECD;2;2
+Botswana;Republic of Botswana;Botswana;BW;BWA;BWA;72;72;BW;BWA;Africa;Africa;Southern Africa;Sub-Saharan Africa;Sovereign country;Developing region;Upper middle income;6;3
+Zimbabwe;Republic of Zimbabwe;Zimbabwe;ZW;ZWE;ZWE;716;716;ZW;ZWE;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Emerging r;Low income;5;5
+Bulgaria;Republic of Bulgaria;Bulgaria;BG;BGR;BGR;100;100;BG;BGR;Europe;Europe;Eastern Europe;Europe & Central Asia;Sovereign country;Developed region: n;Upper middle income;2;3
+Thailand;Kingdom of Thailand;Thailand;TH;THA;THA;764;764;TH;THA;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Emerging region: G2;Upper middle income;5;3
+San Marino;Republic of San Marino;San Marino;SM;SMR;SMR;674;674;SM;SMR;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developed region: no;High income: nonOECD;2;2
+Haiti;Republic of Haiti;Haiti;HT;HTI;HTI;332;332;HT;HTI;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Least deve;Low income;7;5
+Dominican Republic;Dominican Republic;Dominican Republic;DO;DOM;DOM;214;214;DO;DOM;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Chad;Republic of Chad;Chad;TD;TCD;TCD;148;148;TD;TCD;Africa;Africa;Middle Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Kuwait;State of Kuwait;Kuwait;KW;KWT;KWT;414;414;KW;KWT;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Developing region;High income: nonOECD;6;2
+El Salvador;Republic of El Salvador;El Salvador;SV;SLV;SLV;222;222;SV;SLV;North America;Americas;Central America;Latin America & Caribbean;Sovereign country;Developing region;Lower middle income;6;4
+Guatemala;Republic of Guatemala;Guatemala;GT;GTM;GTM;320;320;GT;GTM;North America;Americas;Central America;Latin America & Caribbean;Sovereign country;Developing region;Lower middle income;6;4
+East Timor;Democratic Republic of Timor-Leste;Timor-Leste;TL;TLS;TLS;626;626;TP;TMP;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Least developed reg;Lower middle income;7;4
+Brunei;Negara Brunei Darussalam;Brunei Darussalam;BN;BRN;BRN;96;96;BN;BRN;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Developing region;High income: nonOECD;6;2
+Monaco;Principality of Monaco;Monaco;MC;MCO;MCO;492;492;MC;MCO;Europe;Europe;Western Europe;Europe & Central Asia;Sovereign country;Developed region: no;High income: nonOECD;2;2
+Algeria;People's Democratic Republic of Algeria;Algeria;DZ;DZA;DZA;12;12;DZ;DZA;Africa;Africa;Northern Africa;Middle East & North Africa;Sovereign country;Developing region;Upper middle income;6;3
+Mozambique;Republic of Mozambique;Mozambique;MZ;MOZ;MOZ;508;508;MZ;MOZ;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+eSwatini;Kingdom of eSwatini;eSwatini;SZ;SWZ;SWZ;748;748;SZ;SWZ;Africa;Africa;Southern Africa;Sub-Saharan Africa;Sovereign country;Developing region;Lower middle income;6;4
+Burundi;Republic of Burundi;Burundi;BI;BDI;BDI;108;108;BI;BDI;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Rwanda;Republic of Rwanda;Rwanda;RW;RWA;RWA;646;646;RW;RWA;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Myanmar;Republic of the Union of Myanmar;Myanmar;MM;MMR;MMR;104;104;MM;MMR;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Least deve;Low income;7;5
+Bangladesh;People's Republic of Bangladesh;Bangladesh;BD;BGD;BGD;50;50;BD;BGD;Asia;Asia;Southern Asia;South Asia;Sovereign country;Least deve;Low income;7;5
+Andorra;Principality of Andorra;Andorra;AD;AND;AND;20;20;AD;ADO;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developed region: no;High income: nonOECD;2;2
+Afghanistan;Islamic State of Afghanistan;Afghanistan;AF;AFG;AFG;4;4;AF;AFG;Asia;Asia;Southern Asia;South Asia;Sovereign country;Least deve;Low income;7;5
+Montenegro;Montenegro;Montenegro;ME;MNE;MNE;499;499;ME;MNE;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developing region;Upper middle income;6;3
+Bosnia and Herzegovina;Bosnia and Herzegovina;Bosnia and Herzegovina;BA;BIH;BIH;70;70;BA;BIH;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developing region;Upper middle income;6;3
+Uganda;Republic of Uganda;Uganda;UG;UGA;UGA;800;800;UG;UGA;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Guantanamo Bay Naval Base; ;Guantanamo Bay (US);NA;NA;NA;NA;-99;NA;USA;North America;Americas;Caribbean;Latin America & Caribbean;Lease;Developed region: no;High income: nonOECD;2;2
+Cuba;Republic of Cuba;Cuba;CU;CUB;CUB;192;192;CU;CUB;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Emerging region: G2;Upper middle income;5;3
+Honduras;Republic of Honduras;Honduras;HN;HND;HND;340;340;HN;HND;North America;Americas;Central America;Latin America & Caribbean;Sovereign country;Developing region;Lower middle income;6;4
+Ecuador;Republic of Ecuador;Ecuador;EC;ECU;ECU;218;218;EC;ECU;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Colombia;Republic of Colombia;Colombia;CO;COL;COL;170;170;CO;COL;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Paraguay;Republic of Paraguay;Paraguay;PY;PRY;PRY;600;600;PY;PRY;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Emerging region: G2;Lower middle income;5;4
+Portugal;Portuguese Republic;Portugal;PT;PRT;PRT;620;620;PT;PRT;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Moldova;Republic of Moldova;Moldova;MD;MDA;MDA;498;498;MD;MDA;Europe;Europe;Eastern Europe;Europe & Central Asia;Sovereign country;Developing region;Lower middle income;6;4
+Turkmenistan;Turkmenistan;Turkmenistan;TM;TKM;TKM;795;795;TM;TKM;Asia;Asia;Central Asia;Europe & Central Asia;Sovereign country;Developing region;Upper middle income;6;3
+Jordan;Hashemite Kingdom of Jordan;Jordan;JO;JOR;JOR;400;400;JO;JOR;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Developing region;Upper middle income;6;3
+Nepal;Nepal;Nepal;NP;NPL;NPL;524;524;NP;NPL;Asia;Asia;Southern Asia;South Asia;Sovereign country;Least deve;Low income;7;5
+Lesotho;Kingdom of Lesotho;Lesotho;LS;LSO;LSO;426;426;LS;LSO;Africa;Africa;Southern Africa;Sub-Saharan Africa;Sovereign country;Least developed reg;Lower middle income;7;4
+Cameroon;Republic of Cameroon;Cameroon;CM;CMR;CMR;120;120;CM;CMR;Africa;Africa;Middle Africa;Sub-Saharan Africa;Sovereign country;Developing region;Lower middle income;6;4
+Gabon;Gabonese Republic;Gabon;GA;GAB;GAB;266;266;GA;GAB;Africa;Africa;Middle Africa;Sub-Saharan Africa;Sovereign country;Developing region;Upper middle income;6;3
+Niger;Republic of Niger;Niger;NE;NER;NER;562;562;NE;NER;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Burkina Faso;Burkina Faso;Burkina Faso;BF;BFA;BFA;854;854;BF;BFA;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Togo;Togolese Republic;Togo;TG;TGO;TGO;768;768;TG;TGO;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Ghana;Republic of Ghana;Ghana;GH;GHA;GHA;288;288;GH;GHA;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Developing region;Lower middle income;6;4
+Guinea-Bissau;Republic of Guinea-Bissau;Guinea-Bissau;GW;GNB;GNB;624;624;GW;GNB;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Gibraltar; ;Gibraltar (UK);GI;GIB;GIB;292;292;NA;GIB;Europe;Europe;Southern Europe;Europe & Central Asia;Dependency;Developed region:;High income: OECD;2;1
+United States of America;United States of America;United States of America;US;USA;USA;840;840;US;USA;North America;Americas;Northern America;North America;Country;Developed region:;High income: OECD;1;1
+Canada;Canada;Canada;CA;CAN;CAN;124;124;CA;CAN;North America;Americas;Northern America;North America;Sovereign country;Developed region:;High income: OECD;1;1
+Mexico;United Mexican States;Mexico;MX;MEX;MEX;484;484;MX;MEX;North America;Americas;Central America;Latin America & Caribbean;Sovereign country;Emerging region: MI;Upper middle income;4;3
+Belize;Belize;Belize;BZ;BLZ;BLZ;84;84;BZ;BLZ;North America;Americas;Central America;Latin America & Caribbean;Sovereign country;Developing region;Lower middle income;6;4
+Panama;Republic of Panama;Panama;PA;PAN;PAN;591;591;PA;PAN;North America;Americas;Central America;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Venezuela;Bolivarian Republic of Venezuela;Venezuela, Republica Bolivariana de;VE;VEN;VEN;862;862;VE;VEN;South America;Americas;South America;Latin America & Caribbean;Sovereign country;Emerging region: G2;Upper middle income;5;3
+Papua New Guinea;Independent State of Papua New Guinea;Papua New Guinea;PG;PNG;PNG;598;598;PG;PNG;Oceania;Oceania;Melanesia;East Asia & Pacific;Sovereign country;Developing region;Lower middle income;6;4
+Egypt;Arab Republic of Egypt;Egypt, Arab Republic of;EG;EGY;EGY;818;818;EG;EGY;Africa;Africa;Northern Africa;Middle East & North Africa;Sovereign country;Emerging region: G2;Lower middle income;5;4
+Yemen;Republic of Yemen;Yemen, Republic of;YE;YEM;YEM;887;887;RY;YEM;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Least developed reg;Lower middle income;7;4
+Mauritania;Islamic Republic of Mauritania;Mauritania;MR;MRT;MRT;478;478;MR;MRT;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Equatorial Guinea;Republic of Equatorial Guinea;Equatorial Guinea;GQ;GNQ;GNQ;226;226;GQ;GNQ;Africa;Africa;Middle Africa;Sub-Saharan Africa;Sovereign country;Least developed regi;High income: nonOECD;7;2
+The Gambia;Republic of the Gambia;Gambia, The;GM;GMB;GMB;270;270;GM;GMB;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Hong Kong;Hong Kong Special Administrative Region, PRC;Hong Kong (SAR, China);HK;HKG;HKG;344;344;HK;HKG;Asia;Asia;Eastern Asia;East Asia & Pacific;Country;Developing region;High income: nonOECD;6;2
+Vatican City;State of the Vatican City;Vatican City;VA;VAT;VAT;336;336;NA;VAT;Europe;Europe;Southern Europe;Europe & Central Asia;Sovereign country;Developed region: no;High income: nonOECD;2;2
+Australia;Commonwealth of Australia;Australia;AU;AUS;AUS;36;36;AU;AUS;Oceania;Oceania;Australia and New Zealand;East Asia & Pacific;Country;Developed region:;High income: OECD;2;1
+Greenland;Greenland;Greenland (Den.);GL;GRL;GRL;304;304;GL;GRL;North America;Americas;Northern America;Europe & Central Asia;Country;Developed region: no;High income: nonOECD;2;2
+Fiji;Republic of Fiji;Fiji;FJ;FJI;FJI;242;242;FJ;FJI;Oceania;Oceania;Melanesia;East Asia & Pacific;Sovereign country;Developing region;Lower middle income;6;4
+New Caledonia;New Caledonia;New Caledonia (Fr.);NC;NCL;NCL;540;540;NC;NCL;Oceania;Oceania;Melanesia;East Asia & Pacific;Dependency;Developing region;High income: nonOECD;6;2
+Madagascar;Republic of Madagascar;Madagascar;MG;MDG;MDG;450;450;MG;MDG;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+Philippines;Republic of the Philippines;Philippines;PH;PHL;PHL;608;608;PH;PHL;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Emerging region: G2;Lower middle income;5;4
+Sri Lanka;Democratic Socialist Republic of Sri Lanka;Sri Lanka;LK;LKA;LKA;144;144;LK;LKA;Asia;Asia;Southern Asia;South Asia;Sovereign country;Developing region;Lower middle income;6;4
+Curaçao;Curaçao;Curaçao (Neth.);CW;CUW;CUW;531;531;CW;CUW;North America;Americas;Caribbean;Latin America & Caribbean;Country;Developing region;High income: nonOECD;6;2
+Aruba;Aruba;Aruba (Neth.);AW;ABW;ABW;533;533;AW;ABW;North America;Americas;Caribbean;Latin America & Caribbean;Country;Developing region;High income: nonOECD;6;2
+The Bahamas;Commonwealth of the Bahamas;Bahamas, The;BS;BHS;BHS;44;44;BS;BHS;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;High income: nonOECD;6;2
+Turks and Caicos Islands;Turks and Caicos Islands;Turks and Caicos Islands (UK);TC;TCA;TCA;796;796;TC;TCA;North America;Americas;Caribbean;Latin America & Caribbean;Dependency;Developing region;High income: nonOECD;6;2
+Japan;Japan;Japan;JP;JPN;JPN;392;392;JP;JPN;Asia;Asia;Eastern Asia;East Asia & Pacific;Sovereign country;Developed region:;High income: OECD;1;1
+Saint Pierre and Miquelon;Saint Pierre and Miquelon;Saint-Pierre-et-Miquelon (Fr.);PM;SPM;SPM;666;666;NA;SPM;North America;Americas;Northern America;North America;Dependency;Developed region: n;Upper middle income;2;3
+Iceland;Republic of Iceland;Iceland;IS;ISL;ISL;352;352;IS;ISL;Europe;Europe;Northern Europe;Europe & Central Asia;Sovereign country;Developed region:;High income: OECD;2;1
+Pitcairn Islands;Pitcairn, Henderson, Ducie and Oeno Islands;Pitcairn Islands (UK);PN;PCN;PCN;612;612;NA;PCN;Oceania;Oceania;Polynesia;East Asia & Pacific;Dependency;Least deve;Low income;7;5
+French Polynesia;French Polynesia;French Polynesia (Fr.);PF;PYF;PYF;258;258;PF;PYF;Oceania;Oceania;Polynesia;East Asia & Pacific;Dependency;Developing region;High income: nonOECD;6;2
+French Southern and Antarctic Lands;Territory of the French Southern and Antarctic Lands;French Southern and Antarctic Lands (Fr.);TF;ATF;ATF;260;-99;NA;ATF;Seven seas (open ocean);Seven seas (open ocean);Seven seas (open ocean);Sub-Saharan Africa;Dependency;Developing region;High income: nonOECD;6;2
+Seychelles;Republic of Seychelles;Seychelles;SC;SYC;SYC;690;690;SC;SYC;Seven seas (open ocean);Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Developing region;Upper middle income;6;3
+Kiribati;Republic of Kiribati;Kiribati;KI;KIR;KIR;296;296;KI;KIR;Oceania;Oceania;Micronesia;East Asia & Pacific;Sovereign country;Least developed reg;Lower middle income;7;4
+Marshall Islands;Republic of the Marshall Islands;Marshall Islands;MH;MHL;MHL;584;584;MH;MHL;Oceania;Oceania;Micronesia;East Asia & Pacific;Sovereign country;Developing region;Lower middle income;6;4
+Trinidad and Tobago;Republic of Trinidad and Tobago;Trinidad and Tobago;TT;TTO;TTO;780;780;TT;TTO;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;High income: nonOECD;6;2
+Grenada;Grenada;Grenada;GD;GRD;GRD;308;308;GD;GRD;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Saint Vincent and the Grenadines;Saint Vincent and the Grenadines;Saint Vincent and the Grenadines;VC;VCT;VCT;670;670;VC;VCT;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Barbados;Barbados;Barbados;BB;BRB;BRB;52;52;BB;BRB;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;High income: nonOECD;6;2
+Saint Lucia;Saint Lucia;Saint Lucia;LC;LCA;LCA;662;662;LC;LCA;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Dominica;Commonwealth of Dominica;Dominica;DM;DMA;DMA;212;212;DM;DMA;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Montserrat; ;Montserrat (UK);MS;MSR;MSR;500;500;NA;MSR;North America;Americas;Caribbean;Latin America & Caribbean;Dependency;Developing region;Lower middle income;6;4
+Antigua and Barbuda;Antigua and Barbuda;Antigua and Barbuda;AG;ATG;ATG;28;28;AG;ATG;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Saint Kitts and Nevis;Federation of Saint Kitts and Nevis;Saint Kitts and Nevis;KN;KNA;KNA;659;659;KN;KNA;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;High income: nonOECD;6;2
+United States Virgin Islands;Virgin Islands of the United States;U.S. Virgin Islands (US);VI;VIR;VIR;850;850;VI;VIR;North America;Americas;Caribbean;Latin America & Caribbean;Dependency;Developing region;High income: nonOECD;6;2
+Saint-Barthélemy;Saint-Barthélemy;Saint-Barthélemy (Fr.);BL;BLM;BLM;652;652;NA;BLM;North America;Americas;Caribbean;Latin America & Caribbean;Dependency;Developed region:;High income: OECD;2;1
+Puerto Rico;Commonwealth of Puerto Rico;Puerto Rico (US);PR;PRI;PRI;630;630;PR;PRI;North America;Americas;Caribbean;Latin America & Caribbean;Dependency;Developing region;High income: nonOECD;6;2
+Anguilla; ;Anguilla (UK);AI;AIA;AIA;660;660;NA;AIA;North America;Americas;Caribbean;Latin America & Caribbean;Dependency;Developing region;Upper middle income;6;3
+British Virgin Islands;British Virgin Islands;British Virgin Islands (UK);VG;VGB;VGB;92;92;NA;VGB;North America;Americas;Caribbean;Latin America & Caribbean;Dependency;Developed region:;High income: OECD;2;1
+Jamaica;Jamaica;Jamaica;JM;JAM;JAM;388;388;JM;JAM;North America;Americas;Caribbean;Latin America & Caribbean;Sovereign country;Developing region;Upper middle income;6;3
+Cayman Islands;Cayman Islands;Cayman Islands (UK);KY;CYM;CYM;136;136;KY;CYM;North America;Americas;Caribbean;Latin America & Caribbean;Dependency;Emerging region: G20;High income: nonOECD;5;2
+Bermuda;The Bermudas or Somers Isles;Bermuda (UK);BM;BMU;BMU;60;60;BM;BMU;North America;Americas;Northern America;North America;Dependency;Developed region: no;High income: nonOECD;2;2
+Heard Island and McDonald Islands;Territory of Heard Island and McDonald Islands;Heard Island and McDonald Islands (Aus.);HM;HMD;HMD;334;-99;NA;HMD;Seven seas (open ocean);Seven seas (open ocean);Seven seas (open ocean);Sub-Saharan Africa;Dependency;Least deve;Low income;7;5
+Saint Helena; ;Saint Helena, Ascension and Tristan da Cunha (UK);SH;SHN;SHN;654;654;NA;SHN;Seven seas (open ocean);Africa;Western Africa;Sub-Saharan Africa;Dependency;Developing region;Lower middle income;6;4
+Mauritius;Republic of Mauritius;Mauritius;MU;MUS;MUS;480;480;MU;MUS;Seven seas (open ocean);Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Developing region;Upper middle income;6;3
+Comoros;Union of the Comoros;Comoros;KM;COM;COM;174;174;KM;COM;Africa;Africa;Eastern Africa;Sub-Saharan Africa;Sovereign country;Least deve;Low income;7;5
+São Tomé and Príncipe;Democratic Republic of São Tomé and Principe;São Tomé and Príncipe;ST;STP;STP;678;678;ST;STP;Africa;Africa;Middle Africa;Sub-Saharan Africa;Sovereign country;Least developed reg;Lower middle income;7;4
+Cape Verde;Republic of Cabo Verde;Cabo Verde;CV;CPV;CPV;132;132;CV;CPV;Africa;Africa;Western Africa;Sub-Saharan Africa;Sovereign country;Developing region;Lower middle income;6;4
+Malta;Republic of Malta;Malta;MT;MLT;MLT;470;470;MT;MLT;Europe;Europe;Southern Europe;Middle East & North Africa;Sovereign country;Developed region: no;High income: nonOECD;2;2
+Jersey;Bailiwick of Jersey;Jersey (UK);JE;JEY;JEY;832;832; ;JEY;Europe;Europe;Northern Europe;Europe & Central Asia;Country;Developed region: no;High income: nonOECD;2;2
+Guernsey;Bailiwick of Guernsey;Guernsey (UK);GG;GGY;GGY;831;831; ;GGY;Europe;Europe;Northern Europe;Europe & Central Asia;Country;Developed region: no;High income: nonOECD;2;2
+Isle of Man; ;Isle of Man (UK);IM;IMN;IMN;833;833;IM;IMY;Europe;Europe;Northern Europe;Europe & Central Asia;Country;Developed region: no;High income: nonOECD;2;2
+Faroe Islands;Føroyar Is. (Faeroe Is.);Faroe Islands (Den.);FO;FRO;FRO;234;234;FO;FRO;Europe;Europe;Northern Europe;Europe & Central Asia;Dependency;Developed region: no;High income: nonOECD;2;2
+British Indian Ocean Territory; ;British Indian Ocean Territory (UK);IO;IOT;IOT;86;-99;NA;IOT;Seven seas (open ocean);Seven seas (open ocean);Seven seas (open ocean);Sub-Saharan Africa;Dependency;Developed region: no;High income: nonOECD;2;2
+Singapore;Republic of Singapore;Singapore;SG;SGP;SGP;702;702;SG;SGP;Asia;Asia;South-Eastern Asia;East Asia & Pacific;Sovereign country;Developing region;High income: nonOECD;6;2
+Norfolk Island;Territory of Norfolk Island;Norfolk Island (Aus.);NF;NFK;NFK;574;574;NA;NFK;Oceania;Oceania;Australia and New Zealand;East Asia & Pacific;Dependency;Developing region;Lower middle income;6;4
+Cook Islands; ;Cook Islands (NZ);CK;COK;COK;184;184;NA;COK;Oceania;Oceania;Polynesia;East Asia & Pacific;Dependency;Developing region;Upper middle income;6;3
+Tonga;Kingdom of Tonga;Tonga;TO;TON;TON;776;776;TO;TON;Oceania;Oceania;Polynesia;East Asia & Pacific;Sovereign country;Developing region;Lower middle income;6;4
+Wallis and Futuna;Wallis and Futuna Islands;Wallis-et-Futuna (Fr.);WF;WLF;WLF;876;876;NA;WLF;Oceania;Oceania;Polynesia;East Asia & Pacific;Dependency;Developing region;Lower middle income;6;4
+Samoa;Independent State of Samoa;Samoa;WS;WSM;WSM;882;882;WS;WSM;Oceania;Oceania;Polynesia;East Asia & Pacific;Sovereign country;Least developed reg;Lower middle income;7;4
+Solomon Islands; ;Solomon Islands;SB;SLB;SLB;90;90;SB;SLB;Oceania;Oceania;Melanesia;East Asia & Pacific;Sovereign country;Least developed reg;Lower middle income;7;4
+Tuvalu;Tuvalu;Tuvalu;TV;TUV;TUV;798;798;TV;TUV;Oceania;Oceania;Polynesia;East Asia & Pacific;Sovereign country;Least developed reg;Upper middle income;7;3
+Maldives;Republic of Maldives;Maldives;MV;MDV;MDV;462;462;MV;MDV;Seven seas (open ocean);Asia;Southern Asia;South Asia;Sovereign country;Developing region;Upper middle income;6;3
+Nauru;Republic of Nauru;Nauru;NR;NRU;NRU;520;520;NA;NRU;Oceania;Oceania;Micronesia;East Asia & Pacific;Sovereign country;Developing region;Lower middle income;6;4
+Federated States of Micronesia;Federated States of Micronesia;Micronesia, Federated States of;FM;FSM;FSM;583;583;FM;FSM;Oceania;Oceania;Micronesia;East Asia & Pacific;Sovereign country;Developing region;Lower middle income;6;4
+South Georgia and the South Sandwich Islands;South Georgia and the Islands;South Georgia and South Sandwich Islands (UK);GS;SGS;SGS;239;-99;NA;SGS;Seven seas (open ocean);Seven seas (open ocean);Seven seas (open ocean);Antarctica;Dependency;Least deve;Low income;7;5
+Falkland Islands;Falkland Islands;Falkland Islands (UK)/Islas Malvinas;FK;FLK;FLK;238;238;NA;FLK;South America;Americas;South America;Latin America & Caribbean;Dependency;Developed region:;High income: OECD;2;1
+Vanuatu;Republic of Vanuatu;Vanuatu;VU;VUT;VUT;548;548;VU;VUT;Oceania;Oceania;Melanesia;East Asia & Pacific;Sovereign country;Least developed reg;Lower middle income;7;4
+Niue; ;Niue (NZ);NU;NIU;NIU;570;570;NA;NIU;Oceania;Oceania;Polynesia;East Asia & Pacific;Dependency;Developing region;Upper middle income;6;3
+American Samoa;American Samoa;American Samoa (US);AS;ASM;ASM;16;16;AS;ASM;Oceania;Oceania;Polynesia;East Asia & Pacific;Dependency;Developing region;Upper middle income;6;3
+Palau;Republic of Palau;Palau;PW;PLW;PLW;585;585;PW;PLW;Oceania;Oceania;Micronesia;East Asia & Pacific;Sovereign country;Developing region;Upper middle income;6;3
+Guam;Territory of Guam;Guam (US);GU;GUM;GUM;316;316;GU;GUM;Oceania;Oceania;Micronesia;East Asia & Pacific;Dependency;Developing region;High income: nonOECD;6;2
+Northern Mariana Islands;Commonwealth of the Northern Mariana Islands;Northern Mariana Islands (US);MP;MNP;MNP;580;580;MP;MNP;Oceania;Oceania;Micronesia;East Asia & Pacific;Dependency;Developing region;High income: nonOECD;6;2
+Bahrain;Kingdom of Bahrain;Bahrain;BH;BHR;BHR;48;48;BH;BHR;Asia;Asia;Western Asia;Middle East & North Africa;Sovereign country;Developing region;High income: nonOECD;6;2
+Clipperton Island; ;Clipperton Island (Fr.);NA;NA;NA;NA;-99;NA;FRA;Seven seas (open ocean);Americas;Central America;Latin America & Caribbean;Dependency;Least deve;Low income;7;5
+Macau;Macao Special Administrative Region, PRC;Macau (SAR, China);MO;MAC;MAC;446;446;MO;MAC;Asia;Asia;Eastern Asia;East Asia & Pacific;Country;Developing region;High income: nonOECD;6;2
+Netherlands;Kingdom of the Netherlands;Bonaire (Neth.);NL;NLD;NLD;528;528; ;BES;Europe;Europe;Western Europe;Europe & Central Asia;Country;Developed region:;High income: OECD;2;1
+Netherlands;Kingdom of the Netherlands;Sint Eustatius (Neth.);NL;NLD;NLD;528;528; ;BES;Europe;Europe;Western Europe;Europe & Central Asia;Country;Developed region:;High income: OECD;2;1
+Netherlands;Kingdom of the Netherlands;Saba (Neth.);NL;NLD;NLD;528;528; ;BES;Europe;Europe;Western Europe;Europe & Central Asia;Country;Developed region:;High income: OECD;2;1
+Netherlands;Kingdom of the Netherlands;Netherlands;NL;NLD;NLD;528;528;NL;NLD;Europe;Europe;Western Europe;Europe & Central Asia;Country;Developed region:;High income: OECD;2;1
+Australian Indian Ocean Territories; ;Cocos (Keeling) Islands (Aus.);NA;NA;NA;NA;-99;NA;CCK;Asia;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Developed region: no;High income: nonOECD;2;2
+Australian Indian Ocean Territories; ;Christmas Island (Aus.);NA;NA;NA;NA;-99;NA;CXR;Asia;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Developed region: no;High income: nonOECD;2;2
+United States Minor Outlying Islands; ;Johnston Atoll (US);UM;UMI;UMI;581;-99;NA;UMI;North America;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Least deve;Low income;7;5
+United States Minor Outlying Islands; ;Jarvis Island (US);UM;UMI;UMI;581;-99;NA;UMI;North America;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Least deve;Low income;7;5
+United States Minor Outlying Islands; ;Baker Island (US);UM;UMI;UMI;581;-99;NA;UMI;North America;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Least deve;Low income;7;5
+United States Minor Outlying Islands; ;Howland Island (US);UM;UMI;UMI;581;-99;NA;UMI;North America;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Least deve;Low income;7;5
+United States Minor Outlying Islands; ;Wake Island (US);UM;UMI;UMI;581;-99;NA;UMI;North America;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Least deve;Low income;7;5
+United States Minor Outlying Islands; ;Midway Islands (US);UM;UMI;UMI;581;-99;NA;UMI;North America;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Least deve;Low income;7;5
+United States Minor Outlying Islands; ;Navassa Island (US);UM;UMI;UMI;581;-99;NA;USA;North America;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Least deve;Low income;7;5
+United States Minor Outlying Islands; ;Palmyra Atoll (US);UM;UMI;UMI;581;-99;NA;UMI;North America;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Least deve;Low income;7;5
+United States Minor Outlying Islands; ;Kingman Reef (US);UM;UMI;UMI;581;-99;NA;UMI;North America;Seven seas (open ocean);Seven seas (open ocean);East Asia & Pacific;Dependency;Least deve;Low income;7;5
+New Zealand;New Zealand;Tokelau (NZ);NZ;NZL;NZL;554;554; ;TKL;Oceania;Oceania;Australia and New Zealand;East Asia & Pacific;Country;Developed region:;High income: OECD;2;1
+New Zealand;New Zealand;New Zealand;NZ;NZL;NZL;554;554;NZ;NZL;Oceania;Oceania;Australia and New Zealand;East Asia & Pacific;Country;Developed region:;High income: OECD;2;1
